@@ -1,0 +1,10 @@
+name: NaiveBayes_app
+title: NaiveBayes_app
+account: naivebayes
+server: shinyapps.io
+appId: 178361
+bundleId: 820290
+url: https://naivebayes.shinyapps.io/NaiveBayes_app/
+when: 1494313431.70573
+asMultiple: FALSE
+asStatic: FALSE
